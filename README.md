@@ -8,13 +8,11 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm:
-```
 1.Load Data: Read the dataset using pd.read_csv() and display first and last few rows.
 2.Prepare Data: Separate features (hours) and target variable (scores) for training and testing.
 3.Split Data: Use train_test_split() to divide the dataset into training and testing sets.
 4.Train Model: Fit a linear regression model using the training data.
 5.Evaluate and Plot: Predict scores on the test set, and visualize results with scatter and line plots. 
-```
 
 ## Program and Output:
 ```
